@@ -9,46 +9,45 @@ List of All Curated Android Library to make the development of Android App Fast.
 
 A Curated list of android development Library for all the Android developers in one place.😍
 
-| Links  🔗 |
-|-------|
+Links  🔗 
 
-|[Alarm library android](/library/alarm-library-android)|
+[Alarm library android](/library/alarm-library-android)
 -------------------------------------------------------
 
-|[Android 2d game library](/library/android-2d-game-library)|
+[Android 2d game library](/library/android-2d-game-library)
 -----------------------------------------------------------
 
-[Android 3d rendering library](/library/android-3d-rendering-library)|
+[Android 3d rendering library](/library/android-3d-rendering-library)
 ---------------------------------------------------------------------
 
-[Android aar library](/library/android-aar-library)|
+[Android aar library](/library/android-aar-library)
 ---------------------------------------------------
 
-[Android ai library](/library/android-ai-library)|
+[Android ai library](/library/android-ai-library)
 -------------------------------------------------
 
-[Android alarm clock library](/library/android-alarm-clock-library)|
+[Android alarm clock library](/library/android-alarm-clock-library)
 -------------------------------------------------------------------
 
-[Android alarmmanager library](/library/android-alarmmanager-library)|
+[Android alarmmanager library](/library/android-alarmmanager-library)
 ---------------------------------------------------------------------
 
-[Android analog clock library](/library/android-analog-clock-library)|
+[Android analog clock library](/library/android-analog-clock-library)
 ---------------------------------------------------------------------
 
-[Android animated gif library](/library/android-animated-gif-library)|
+[Android animated gif library](/library/android-animated-gif-library)
 ---------------------------------------------------------------------
 
-[Android annotation library](/library/android-annotation-library)|
+[Android annotation library](/library/android-annotation-library)
 -----------------------------------------------------------------
 
-[Android annotations support library](/library/android-annotations-support-library)|
+[Android annotations support library](/library/android-annotations-support-library)
 -----------------------------------------------------------------------------------
 
-[Android app walkthrough library](/library/android-app-walkthrough-library)|
+[Android app walkthrough library](/library/android-app-walkthrough-library)
 ---------------------------------------------------------------------------
 
-[Android audio record library](/library/android-audio-record-library)|
+[Android audio record library](/library/android-audio-record-library)
 ---------------------------------------------------------------------
 
 [Android auto receiver library](/library/android-auto-receiver-library)
@@ -939,20 +938,20 @@ A Curated list of android development Library for all the Android developers in 
 [Vr library android](/library/vr-library-android)
 -------------------------------------------------
 
-[Webrtc library for android](/library/webrtc-library-for-android)|
+[Webrtc library for android](/library/webrtc-library-for-android)
 -----------------------------------------------------------------
 
-[Xamarin android binding library](/library/xamarin-android-binding-library)|
+[Xamarin android binding library](/library/xamarin-android-binding-library)
 ---------------------------------------------------------------------------
 
-[Youtube audio library android](/library/youtube-audio-library-android)|
+[Youtube audio library android](/library/youtube-audio-library-android)
 -----------------------------------------------------------------------
 
-[Youtube video player library android](/library/youtube-video-player-library-android)|
+[Youtube video player library android](/library/youtube-video-player-library-android)
 -------------------------------------------------------------------------------------
 
-[Zbar library android](/library/zbar-library-android)|
+[Zbar library android](/library/zbar-library-android)
 -----------------------------------------------------
 
-[Zxing library for android studio](/library/zxing-library-for-android-studio)|
+[Zxing library for android studio](/library/zxing-library-for-android-studio)
 -----------------------------------------------------------------------------
